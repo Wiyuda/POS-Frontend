@@ -124,8 +124,8 @@ const Sidebar = () => {
     <aside className="relative flex h-auto w-[280px] shrink-0 bg-white">
       <div className="flex flex-col fixed top-0 w-[280px] shrink-0 h-screen pt-[30px] px-4 gap-[30px]">
         <img
-          src="/assets/images/logos/logo.svg"
-          className="h-8 w-fit"
+          src="/assets/images/logos/logo.png"
+          className="h-10 w-full object-contain"
           alt="logo"
         />
         <div className="flex flex-col gap-5 overflow-y-scroll hide-scrollbar h-full overscroll-contain">
