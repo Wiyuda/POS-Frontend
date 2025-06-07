@@ -48,7 +48,7 @@ const Login = () => {
           className="flex flex-col w-[435px] shrink-0 rounded-3xl gap-10 p-6 bg-white"
         >
           <img
-            src="/assets/images/logos/logo.svg"
+            src="/assets/images/logos/logo.png"
             className="w-[203px] mx-auto"
             alt="logo"
           />

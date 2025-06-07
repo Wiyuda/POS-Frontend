@@ -568,7 +568,7 @@
   .btn-primary {
     border-radius: 9999px;
     --tw-bg-opacity: 1;
-    background-color: rgb(16 83 213 / var(--tw-bg-opacity, 1));
+    background-color: rgb(20 82 82 / var(--tw-bg-opacity, 1));
     --tw-text-opacity: 1;
     color: rgb(255 255 255 / var(--tw-text-opacity, 1));
   }
@@ -1248,11 +1248,11 @@
   
   .bg-monday-blue {
     --tw-bg-opacity: 1;
-    background-color: rgb(16 83 213 / var(--tw-bg-opacity, 1));
+    background-color: rgb(20 82 81 / var(--tw-bg-opacity, 1));
   }
   
   .bg-monday-blue\/10 {
-    background-color: rgb(16 83 213 / 0.1);
+    background-color: rgb(20 82 82 / 0.1);
   }
   
   .bg-monday-gray-background {
@@ -1262,7 +1262,7 @@
   
   .bg-monday-lime-green {
     --tw-bg-opacity: 1;
-    background-color: rgb(203 238 90 / var(--tw-bg-opacity, 1));
+    background-color: rgb(186 90 24 / var(--tw-bg-opacity, 1));
   }
   
   .bg-monday-red\/10 {
@@ -1507,7 +1507,7 @@
   
   .text-monday-blue {
     --tw-text-opacity: 1;
-    color: rgb(16 83 213 / var(--tw-text-opacity, 1));
+    color: rgb(20 82 82 / var(--tw-text-opacity, 1));
   }
   
   .text-monday-gray {
@@ -1517,7 +1517,7 @@
   
   .text-monday-lime-green-char {
     --tw-text-opacity: 1;
-    color: rgb(222 255 110 / var(--tw-text-opacity, 1));
+    color: rgb(186 90 84 / var(--tw-text-opacity, 1));
   }
   
   .text-monday-red {
@@ -1544,7 +1544,7 @@
   }
   
   .blue-gradient{
-    background: linear-gradient(336.99deg, #0A3A89 0%, #1053D5 100%);
+    background: linear-gradient(336.99deg, #145252 0%, #145252 100%);
   }
   
   .transition-300{
